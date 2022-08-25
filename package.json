@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "repository-mike2",
+  "version": "1.0.0",
+  "main": "hello-node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinTate24/Repository-Mike2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinTate24/Repository-Mike2/issues"
+  },
+  "homepage": "https://github.com/ColinTate24/Repository-Mike2#readme",
+  "description": ""
+}
